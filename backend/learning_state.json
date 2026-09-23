@@ -1,0 +1,44 @@
+{
+  "student": {
+    "name": "Vedant",
+    "level": "Beginner",
+    "goal": "Build strong fundamentals"
+  },
+  "subjects": {
+    "Mathematics": {
+      "mastery": {
+        "Probability": 72,
+        "Conditional Probability": 42,
+        "Bayes Theorem": 58,
+        "Random Variables": 74
+      },
+      "trend": [
+        52,
+        58,
+        61,
+        66,
+        69,
+        72
+      ]
+    },
+    "Computer Science": {
+      "mastery": {
+        "Python": 82,
+        "DSA": 64,
+        "OOP": 71
+      },
+      "trend": [
+        55,
+        59,
+        63,
+        68,
+        73,
+        82
+      ]
+    }
+  },
+  "quiz_history": [],
+  "study_minutes": 310,
+  "streak": 7,
+  "last_recommendation": "Review Conditional Probability, then take a targeted 5-question quiz."
+}
